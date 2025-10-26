@@ -27,6 +27,6 @@
   <summary>More about me</summary>
 
 - I like learning low-level concepts and customizing my Linux setup.
-- If you want to reach me, open an issue/discussion in one of my repos.
+- If you want to reach me, you can send an e-mail!
 
 </details>
