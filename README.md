@@ -3,12 +3,14 @@
 # Hi, I'm Mete (gentoo888) 👋
 
 - I enjoy systems and tooling, coding in Rust.
+- I am 15 years old.
 - Daily drive: Gentoo Linux 🐧
 - I like building tools that soves real world problems 🌍
 - I haven't much time for coding because of the turkish education system and school, but I am still trying my best.
 - My goal is attending to MIT.
 
 ## I don't use social media except youtube for coding stuff. I see them as a time wasting(No Instagram, No facebook...).
+## I am all alone, My only team project (I was the only developer) is for Nasa International Apps Challenge.
 
 ## 🔧 Tech
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
