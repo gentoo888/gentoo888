@@ -1,21 +1,10 @@
+# Hi, I'm Mete (gentoo888) 👋
 
-
-# Hi, I'm Mete (thanks for visiting my account!) 👋
-
-- I enjoy systems and tooling, coding in Rust.
-- I am 15 years old.
-- Daily drive: Gentoo Linux 🐧
-- I like building tools that soves real world problems 🌍
-- I haven't much time for coding because of the turkish education system and school, but I am still trying my best.
-- My goal is attending to MIT.
-
-## I don't use social media except youtube for coding stuff. I see them as a time wasting(No Instagram, No facebook...).
-## I am all alone, My only team project (I was the only developer) is for Nasa International Apps Challenge.
-
-## Languages I know:
-- Turkish (of course)
-- English
-- German. (I am currently A2 level)
+- Rust enjoyer • Gentoo Linux daily driver 🐧
+- I like building tools that solve real-world problems 🌍
+- 15 y/o student from Türkiye — goal: attend MIT
+- Solo developer, all alone; built a project for the NASA International Space Apps Challenge
+- I avoid social media to stay focused (YouTube only for coding)
 
 ## 🔧 Tech
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
@@ -31,14 +20,13 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
-## Working on:
-- My blog which summaries my projects, myself...
-
+## 🛠️ Currently
+- Building a blog to summarize my projects and learning
 
 <details>
   <summary>More about me</summary>
 
 - I like learning low-level concepts and customizing my Linux setup.
-
+- If you want to reach me, open an issue/discussion in one of my repos.
 
 </details>
