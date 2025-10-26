@@ -1,13 +1,14 @@
-<!-- Banner / Header (optional) -->
-<!-- You can replace this banner with your own image -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2937,100:111827&height=200&section=header&text=Mete%20Parlak%20(gentoo888)&fontColor=ffffff&fontSize=36&animation=fadeIn" /> -->
+
 
 # Hi, I'm Mete (gentoo888) 👋
 
-- I enjoy systems and tooling, coding in Rust and Python.
+- I enjoy systems and tooling, coding in Rust.
 - Daily drive: Gentoo Linux 🐧
-- I like building tools that make switching to Linux easier.
-- I don't use social media except youtube for coding stuff.
+- I like building tools that soves real world problems 🌍
+- I haven't much time for coding because of the turkish education system and school, but I am still trying my best.
+- My goal is attending to MIT.
+
+## I don't use social media except youtube for coding stuff. I see them as a time wasting(No Instagram, No facebook...).
 
 ## 🔧 Tech
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
@@ -23,21 +24,14 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=gentoo888&theme=dark&hide_border=true)
+## Working on:
+- My blog which summaries my projects, myself...
 
-## ✨ Visitors
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gentoo888&title=visits&edge_flat=false)
-
-<!-- Snake contribution graph (optional; see workflow below) -->
-<!--
-![Snake animation](https://raw.githubusercontent.com/gentoo888/gentoo888/output/snake.svg)
--->
 
 <details>
   <summary>More about me</summary>
 
 - I like learning low-level concepts and customizing my Linux setup.
-- Always exploring new tooling in Rust and Python.
+
 
 </details>
