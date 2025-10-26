@@ -7,6 +7,7 @@
 - I enjoy systems and tooling, coding in Rust and Python.
 - Daily drive: Gentoo Linux 🐧
 - I like building tools that make switching to Linux easier.
+- I don't use social media except youtube for coding stuff.
 
 ## 🔧 Tech
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
