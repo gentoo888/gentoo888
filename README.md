@@ -15,6 +15,8 @@
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![GNU nano](https://img.shields.io/badge/GNU%20nano-333?logo=gnunano&logoColor=white)
 
 <!-- Distros / WM -->
 ![Slackware](https://img.shields.io/badge/Slackware-0A57A9?logo=slackware&logoColor=white)
