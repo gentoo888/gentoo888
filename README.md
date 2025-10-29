@@ -6,6 +6,7 @@
 - All alone, I don't have any friends
 - Solo developer; built a project for the NASA International Space Apps Challenge
 - I avoid social media to stay focused (YouTube only for coding stuff)
+- I am not so online becuase the school jobs are so much, but I am still trying my best
 
 ## 🔧 Tech
 
@@ -43,6 +44,7 @@
 
 ## 🛠️ Currently
 - Building a blog to summarize my projects and learning
+- Writing a word memorizer educational app on rust
 
 <details>
   <summary>More about me</summary>
