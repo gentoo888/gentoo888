@@ -26,10 +26,6 @@
 ![Tiny Core Linux](https://img.shields.io/badge/Tiny%20Core-333?logo=linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-0E83CD?logo=hyprland&logoColor=white)
 
-<!-- Languages -->
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 
 <!-- Shells -->
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
