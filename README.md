@@ -44,7 +44,7 @@
 
 ## 🛠️ Currently
 - Building a blog to summarize my projects and learning
-- Writing a word memorizer educational app on rust
+- Improving metario app
 
 <details>
   <summary>More about me</summary>
