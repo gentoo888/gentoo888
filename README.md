@@ -3,7 +3,6 @@
 - Rust enjoyer • Gentoo Linux daily driver 🐧
 - I like building tools that solve real-world problems 🌍
 - 15 y/o student from Türkiye — goal: attend MIT
-- All alone, I don't have any friends
 - Solo developer; built a project for the NASA International Space Apps Challenge
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online becuase the school jobs are so much, but I am still trying my best
