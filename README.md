@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 ## 🛠️ Currently
-- Building a blog to summarize my projects and learning
+- Working on releasing my repos
 - Improving metario app
 
 <details>
