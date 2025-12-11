@@ -6,6 +6,8 @@
 - Solo developer; built a project for the NASA International Space Apps Challenge
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online becuase the school jobs are so much, but I am still trying my best
+- I like learning low-level concepts and customizing my Linux setup.
+- If you want to reach me, you can send an e-mail
 
 ## 🔧 Tech
 
@@ -38,13 +40,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 ## 🛠️ Currently
-- Working on releasing my repos
-- Improving metario app
+- Making wortmeister available for mac
+- Bringing more features to wortmeister
 
-<details>
-  <summary>More about me</summary>
 
-- I like learning low-level concepts and customizing my Linux setup.
-- If you want to reach me, you can send an e-mail!
 
-</details>
+
+
+
