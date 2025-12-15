@@ -41,7 +41,7 @@
 
 ## 🛠️ Currently
 - Making wortmeister available for mac
-- Bringing more features to wortmeister
+- Building my very own website instead of google blogs
 
 
 
