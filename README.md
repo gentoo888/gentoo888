@@ -42,6 +42,7 @@
 ## 🛠️ Currently
 - Making wortmeister available for mac
 - Building my very own website instead of google blogs
+- Working on AI and ML
 
 
 
