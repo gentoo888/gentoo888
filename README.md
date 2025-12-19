@@ -1,3 +1,6 @@
+# NOTE
+I will not be focused on github by now. I am focusing on AI and ML these days. I will be more active on Hugging Face. Expect less activites from me on github
+
 # Hi, I'm Mete (gentoo888) 👋
 
 - Rust enjoyer • Gentoo Linux daily driver 🐧
