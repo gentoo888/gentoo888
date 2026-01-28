@@ -3,7 +3,7 @@
 # I'm Mete
 
 - I like building tools that solve real-world problems 🌍
-- 15 y/o student from Türkiye — goal: be an exploit developer
+- 15 y/o student from Türkiye 🇹🇷 — goal: be an exploit developer
 - Solo developer; built a project for the NASA International Space Apps Challenge
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online becuase the school jobs are so much, but I am still trying my best
