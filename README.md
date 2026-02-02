@@ -24,6 +24,13 @@
 ![Slackware](https://img.shields.io/badge/Slackware-0A57A9?logo=slackware&logoColor=white)
 ![Tiny Core Linux](https://img.shields.io/badge/Tiny%20Core-333?logo=linux&logoColor=white)
 
+![KDE](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?logo=xfce&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-0E83CD?logo=hyprland&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-FFBC00?logo=wayland&logoColor=black)
+![X11](https://img.shields.io/badge/X11-000000?logo=x&logoColor=white)
+
+
 <!-- Tools & Editors -->
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
