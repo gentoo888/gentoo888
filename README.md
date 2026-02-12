@@ -1,7 +1,7 @@
 # I'm Mete
 
 - I like building tools that solve real-world problems 🌍
-- 15 y/o student from Türkiye 🇹🇷 — goal: be an exploit developer
+- 15 y/o student from Türkiye 🇹🇷 — goal: be a binary level legal exploit developer
 - I am using NixOS.
 - Solo developer; built a project for the NASA International Space Apps Challenge
 - I avoid social media to stay focused (YouTube only for coding stuff)
