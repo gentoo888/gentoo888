@@ -28,7 +28,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Slackware](https://img.shields.io/badge/Slackware-0A57A9?logo=slackware&logoColor=white)
-![Tiny Core Linux](https://img.shields.io/badge/Tiny%20Core-333?logo=linux&logoColor=white)
 
 ### Desktop Environments & Window Managers
 ![KDE](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=white)
@@ -45,6 +44,7 @@
 ### Shells
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-000000?logo=zsh&logoColor=white)
+![Nu Shell](https://img.shields.io/badge/Nu%20Shell-3AA675?logo=nushell&logoColor=white)
 
 ## Featured Projects
 [![LinuxHelper](https://github-readme-stats.vercel.app/api/pin/?username=gentoo888&repo=LinuxHelper&theme=github_dark)](https://github.com/gentoo888/LinuxHelper)
