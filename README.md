@@ -54,9 +54,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 ## Currently Working On
-- 🍺 Making wortmeister available for macOS
-- 🌐 Building my very own website instead of using Google Blogs
-- 🤖 Working on AI and ML projects
+- Getting better at Rust 🦀 and C for cybersecurity 
 
 ---
 
