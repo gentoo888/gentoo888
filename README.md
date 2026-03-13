@@ -9,6 +9,9 @@
 - I like learning low-level concepts and customizing my Linux setup.
 - If you want to reach me, you can send an e-mail 
 
+## My Potfolio Website
+https://gentoo888.github.io/mevicta/
+
 ## Tech Stack
 
 ### Languages
