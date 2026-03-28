@@ -51,6 +51,7 @@ https://gentoo888.github.io/mevicta/
 
 ## Featured Projects
 [![LinuxHelper](https://github-readme-stats.vercel.app/api/pin/?username=gentoo888&repo=LinuxHelper&theme=github_dark)](https://github.com/gentoo888/LinuxHelper)
+[![GİKAL Wortmeister](https://github-readme-stats.vercel.app/api/pin/?username=gentoo888&repo=LinuxHelper&theme=github_dark)](https://github.com/gentoo888/wortmeister)
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
