@@ -3,7 +3,7 @@
 - I like building tools that solve real-world problems 🌍
 - 15 y/o student from Türkiye 🇹🇷 — goal: be a binary level legal exploit developer
 - I am using NixOS.
-- Solo developer; built a project for the NASA International Space Apps Challenge
+- Solo developer
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online because the school jobs are so much, but I am still trying my best
 - I like learning low-level concepts and customizing my Linux setup.
