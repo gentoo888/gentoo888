@@ -60,7 +60,7 @@ https://gentoo888.github.io/mevicta/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 ## Currently 
-- Reading CSAPP
+- Studying CSAPP
 ---
 
 **Get in touch:** Send me an email! 📧
