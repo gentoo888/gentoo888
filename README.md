@@ -1,8 +1,9 @@
 # I'm Mete
 
-- I like building tools that solve real-world problems 🌍
+- I like building tools that solve real-world problems 
 - 16 y/o student from Türkiye 🇹🇷
-- goal: be a binary level legal exploit developer
+- Programmer in a FRC team
+- goal: be an embedded security dev (and enjoy doing it :D)
 - I am using NixOS.
 - Solo developer
 - I avoid social media to stay focused (YouTube only for coding stuff)
