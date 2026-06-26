@@ -3,6 +3,7 @@
 - I like building tools that solve real-world problems 
 - 16 y/o student from Türkiye 🇹🇷
 - Programmer in a FRC team
+- Programmer in an IGEM team
 - goal: be an embedded security dev (and enjoy doing it :D)
 - I am using NixOS.
 - Solo developer
