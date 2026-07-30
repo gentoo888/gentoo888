@@ -9,8 +9,8 @@
 - Solo developer
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online because the school jobs are so much, but I am still trying my best
-- I like learning low-level concepts and customizing my Linux setup.
-- If you want to reach me, you can send an e-mail 
+- I like learning low level concepts and customizing my Linux setup.
+- If you want to reach me, you can send an e mail 
 
 ## My Potfolio Website
 https://gentoo888.github.io/mevicta/
