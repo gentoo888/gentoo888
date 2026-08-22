@@ -13,7 +13,6 @@
 ## My Potfolio Website
 https://gentoo888.github.io/mevicta/
 
-## Tech Stack
 
 ### Languages
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
