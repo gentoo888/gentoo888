@@ -59,6 +59,6 @@ https://gentoo888.github.io/mevicta/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 **Get in touch:** Send me an email or:
-[![Discord Presence](https://lanyard.cnrad.dev/api/933835492309479455?showDisplayName=true&hideActivity=true&theme=dark)](https://discord.com/users/1263877360869052460)
+[![Discord Presence](https://discord.com/users/1263877360869052460)
 
 <h1>All commits signed with GPG are cryptographically verified and represent my own authored work.</h1>
