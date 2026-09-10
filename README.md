@@ -59,5 +59,5 @@ https://gentoo888.github.io/mevicta/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 
 **Get in touch:** Send me an email or:
-[![Discord](https://shields.io)](https://discord.com)
+[![Discord](https://shields.io/discord)](https://discord.com/users/1263877360869052460)
 <h1>All commits signed with GPG are cryptographically verified and represent my own authored work.</h1>
