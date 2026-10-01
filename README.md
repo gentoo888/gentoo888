@@ -57,6 +57,7 @@ https://gentoo888.github.io/mevicta/
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
+<p>Idk why the stats don't show some of the languages I use</p>
 
 **Get in touch:** Send me an email or:
 ![](https://dcbadge.limes.pink/api/shield/1263877360869052460)
