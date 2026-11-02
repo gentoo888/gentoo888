@@ -8,7 +8,6 @@
 - I avoid social media to stay focused (YouTube only for coding stuff)
 - I am not so online because the school jobs are so much, but I am still trying my best
 - I like learning low level concepts and customizing my Linux setup.
-- Still waiting for real steel 2
 
 ## My Potfolio Website
 https://gentoo888.github.io/mevicta/
