@@ -56,7 +56,9 @@ https://gentoo888.github.io/mevicta/
 ## GitHub Stats
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <img src="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=ff2d95&theme=auto&mode=mono&preset=githubblue&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=dark&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
   </picture>
 </a>
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
