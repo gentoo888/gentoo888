@@ -54,13 +54,6 @@ https://gentoo888.github.io/mevicta/
 [![GİKAL Wortmeister](https://github-readme-stats.vercel.app/api/pin/?username=gentoo888&repo=wortmeister&theme=github_dark)](https://github.com/gentoo888/wortmeister)
 
 ## GitHub Stats
-<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-  <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=dark&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=gentoo888&color=2563eb&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
-  </picture>
-</a>
 ![Stats](https://github-readme-stats.vercel.app/api?username=gentoo888&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gentoo888&layout=compact&theme=github_dark)
 <p>(Idk why the stats don't show some of the languages I use)</p>
