@@ -18,7 +18,6 @@ https://gentoo888.github.io/mevicta/
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white)
@@ -43,6 +42,7 @@ https://gentoo888.github.io/mevicta/
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![GNU nano](https://img.shields.io/badge/GNU%20nano-333?logo=gnunano&logoColor=white)
+![Kate](https://img.shields.io/badge/Kate-3D8CB5?logoColor=white) (it's the goat)
 
 ### Shells
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
