@@ -44,10 +44,9 @@ https://gentoo888.github.io/mevicta/
 ![GNU nano](https://img.shields.io/badge/GNU%20nano-333?logo=gnunano&logoColor=white)
 ![Kate](https://img.shields.io/badge/Kate-3D8CB5?logoColor=white) (it's the goat)
 
-### Shells
+### Shell
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-000000?logo=zsh&logoColor=white)
-![Nu Shell](https://img.shields.io/badge/Nu%20Shell-3AA675?logo=nushell&logoColor=white)
+don't larp
 
 ## Featured Projects
 [![LinuxHelper](https://github-readme-stats.vercel.app/api/pin/?username=gentoo888&repo=LinuxHelper&theme=github_dark)](https://github.com/gentoo888/LinuxHelper)
